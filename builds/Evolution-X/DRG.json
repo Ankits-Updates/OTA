@@ -1,0 +1,17 @@
+{
+   "datetime": 1607600144, #demo values
+   "donate_url": "https://www.paypal.com/paypalme/keneankit",
+   "error": false, #demo values
+   "filehash": "495c22910a818ab9a3de8eed8a32b98b",#demo values
+   "filename": "EvolutionX_5.8_DRG-11-20210623-1718-UNOFFICIAL.zip", #demo values
+   "forum_url": "https://forum.xda-developers.com/realme-5-pro/development/11-evolution-x-5-1-official-realme-5-pro-t4186457", #demo values
+   "id": "f6f4766f21ff044b4c6845f21f750f233ac69dfc6fad6a98b6f93e6edfa48777", #demo values
+   "maintainer": "ANKIT KENE", #demo values
+   "maintainer_url": "https://forum.xda-developers.com/m/keneankit01.8624802/",
+   "news_url": "https://t.me/ankits_hub",
+   "size": 1745916143, #demo values
+   "telegram_username": "ankitkene",
+   "url": "https://github.com/keneankit01/builds/releases/download/v1-evo/EvolutionX_5.8_DRG-11-20210623-1718-UNOFFICIAL.zip",
+   "version": "Eleven",
+   "website_url": "www.keneankit.codes"
+}

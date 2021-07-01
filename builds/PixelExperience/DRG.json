@@ -1,0 +1,16 @@
+{
+	"error":false,
+	"version":"eleven",
+	"is_incremental":false,
+	"has_incremental":false,
+	"filename":"PixelExperience_DRG-11.0-20210623-0427-UNOFFICIAL.zip",
+	"datetime":1620678968, #demo values
+	"size":1077027896, #demo values
+	"url":"https://github.com/keneankit01/builds/releases/download/v1.0/PixelExperience_DRG-11.0-20210623-0427-UNOFFICIAL.zip",
+	"filehash":"0ec2e7f246735077173b2b19e771ff95",  #demo values
+	"id":"0ec2e7f246735077173b2b19e771ff95", #demo values
+	"maintainers":[{"main_maintainer":true,"github_username":"Keneankit01","name":"Ankit Kene"}],
+	"donate_url":"https://www.paypal.com/paypalme/keneankit",
+	"website_url":"www.keneankit.codes",
+	"news_url":"https://t.me/ankits_hub"
+}
